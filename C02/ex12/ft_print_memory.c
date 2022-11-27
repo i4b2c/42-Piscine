@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-void	*ft_print_memory(void *addr, unsigned int size) //nem tentei
+void	*ft_print_memory(void *addr, unsigned int size)//nem tentei
 {
 	while (addr < size)
 	{
