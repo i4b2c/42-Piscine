@@ -48,6 +48,7 @@ int	ft_atoi(char *str)
 }
 /*
 #include <stdio.h>
+
 int main(void)
 {
 	printf("%d",ft_atoi("		--9a8213"));
