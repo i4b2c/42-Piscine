@@ -35,6 +35,7 @@ int	ft_ultimate_range(int **range, int min, int max)
 	return (total);
 }
 /*
+
 int	main(void)
 {
 	int	min;
