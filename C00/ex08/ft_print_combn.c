@@ -21,7 +21,7 @@ void	ft_print_combn(int n)
 {
 	int	a;
 
-	a = '0' ;
+	a = '0' ;//nem tentei :)
 	if (n == 1)
 	{
 		while (a < 9)
