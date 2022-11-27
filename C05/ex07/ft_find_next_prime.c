@@ -40,6 +40,7 @@ int	ft_find_next_prime(int nb)
 }
 /*
 #include <stdio.h>
+
 int main(void)
 {
 	int x;
