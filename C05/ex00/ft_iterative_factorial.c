@@ -18,12 +18,10 @@ int	ft_iterative_factorial(int nb)
 	while (nb > 0)
 	{
 		x *= nb;
-	nb--;
+		nb--;
 	}
 	if (nb < 0)
-	{
 		return (0);
-	}
 	return (x);
 }
 /*
