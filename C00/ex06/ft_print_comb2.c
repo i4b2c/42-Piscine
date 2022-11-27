@@ -44,6 +44,6 @@ void	ft_print_comb2(void)
 			put_char(a, b);
 			b++;
 		}
-		a++;
+	a++;
 	}
 }
