@@ -36,8 +36,6 @@ void	ft_putnbr(int nb)
 		return ;
 	}
 	else
-	{
 		ft_putnbr(nb / 10);
-	}
 	ft_putnbr(nb % 10);
 }
