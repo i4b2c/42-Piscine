@@ -14,12 +14,12 @@
 
 void	ft_print_numbers(void)
 {
-	char	c;
+	char	ch;
 
-	c = '0';
+	ch = '0';
 	while (c <= '9')
 	{
-		write(1, &c, 1);
-		c++;
+		write(1, &ch, 1);
+		ch++;
 	}
 }
