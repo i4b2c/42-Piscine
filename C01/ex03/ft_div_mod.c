@@ -12,8 +12,8 @@
 
 #include <unistd.h>
 
-void	ft_div_mod(int x, int i, int *div, int *mod)
+void	ft_div_mod(int a, int b, int *div, int *mod)
 {
-	*div = x / i;
-	*mod = x % i;
+	*div = a / b;
+	*mod = a % b;
 }
