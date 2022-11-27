@@ -27,6 +27,7 @@ int	ft_is_prime(int nb)
 }
 /*
 #include <stdio.h>
+
 int main(void)
 {
 	int x;
