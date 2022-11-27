@@ -17,7 +17,7 @@ void	ft_putchar(char a, char b, char c)
 	write(1, &a, 1);
 	write(1, &b, 1);
 	write(1, &c, 1);
-	if (a != '7' )
+	if (a != '7')
 	{
 		write(1, ", ", 2);
 	}
