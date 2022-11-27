@@ -19,12 +19,12 @@ void	ft_putchar(char c)
 
 void	ft_print_reverse_alphabet(void)
 {
-	char	ar;
+	char	c;
 
-	ar = 'z';
-	while (ar >= 'a')
+	c = 'z';
+	while (c >= 'a')
 	{
-		write (1, &ar, 1);
-		ar--;
+		write (1, &c, 1);
+		c--;
 	}
 }
