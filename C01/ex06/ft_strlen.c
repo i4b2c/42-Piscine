@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include <unistd.h>
-//#include <stdio.h>
 
 int	ft_strlen(char *str)
 {
@@ -27,13 +26,3 @@ int	ft_strlen(char *str)
 	}
 	return (contagem);
 }
-/*
-int main()
-{
-	char str[] = "olasjkhgdksagdkhasgdhjkahdjkahsdkahgskjacgbaskdgasukhdga";
-	char *a;
-	
-	a = str;
-	ft_strlen(a);
-	return 0;
-}*/
