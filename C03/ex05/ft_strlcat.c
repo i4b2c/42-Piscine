@@ -30,9 +30,7 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 	j = 0;
 	i = 0;
 	while (dest[j] != '\0')
-	{
 		j++;
-	}
 	lend = j;
 	lens = ft_len(src);
 	if (size == 0 || size <= lend)
