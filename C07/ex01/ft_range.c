@@ -32,6 +32,7 @@ int	*ft_range(int min, int max)
 	return (p);
 }
 /*
+
 int		main(void)
 {
 	int	min;
