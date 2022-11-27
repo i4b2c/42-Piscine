@@ -16,16 +16,3 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
-/*
-#include <stdio.h>
-
-int main()
-{
-	int	*nbr;
-	int	b;
-
-	nbr = &b;
-	ft_ft(nbr);
-	printf("%d\n",b);
-	return 0;
-}*/
