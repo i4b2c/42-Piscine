@@ -12,9 +12,9 @@
 
 #include <unistd.h>
 
-void	write_func(char a)
+void	write_func(char ch)
 {
-	write(1, &a, 1);
+	write(1, &ch, 1);
 }
 
 void	put_char(int a, int b)
