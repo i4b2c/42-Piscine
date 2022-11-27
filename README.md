@@ -85,9 +85,9 @@ Minha jornada na piscina da 42 Porto.
 
 
 
-# **Exam 00 ---------- Exam 01 ---------- Exam 02 ---------- Exam Final**
+# **Exam 00 |==| Exam 01 |==| Exam 02 |==| Exam Final**
 
-![image](https://user-images.githubusercontent.com/117470349/204123451-4f11b800-70e5-46e7-a6c6-c27f7b2cc1a2.png)_______
-![image](https://user-images.githubusercontent.com/117470349/204123458-f5f28954-9e9b-4bb5-b64c-f045a82d75ac.png)_________
-![image](https://user-images.githubusercontent.com/117470349/204123465-09c3c134-263d-478c-96e8-1514b5c0b3a0.png)__________
+![image](https://user-images.githubusercontent.com/117470349/204123451-4f11b800-70e5-46e7-a6c6-c27f7b2cc1a2.png)
+![image](https://user-images.githubusercontent.com/117470349/204123458-f5f28954-9e9b-4bb5-b64c-f045a82d75ac.png)
+![image](https://user-images.githubusercontent.com/117470349/204123465-09c3c134-263d-478c-96e8-1514b5c0b3a0.png)
 ![image](https://user-images.githubusercontent.com/117470349/204123483-b2f6697b-083c-4dad-bb74-f780a2c47690.png)
