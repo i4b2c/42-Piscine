@@ -33,6 +33,7 @@ char	*ft_strstr(char *str, char *to_find)
 }
 /*
 #include <stdio.h>
+
 int main(void)
 {
 	char str[] = "abcde";
