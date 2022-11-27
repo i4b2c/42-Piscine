@@ -23,6 +23,7 @@ int	ft_strlen(char *str)
 }
 /*
 #include <stdio.h>
+
 int main(void)
 {
 	int i;
