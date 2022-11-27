@@ -41,11 +41,4 @@ void	ft_putnbr(int nb)
 	}
 	ft_putnbr(nb % 10);
 }
-/*
-int main(void)
-{
-	ft_putnbr(-552);
-	ft_putnbr(0);
-	ft_putnbr(5);
-	return 0;
-}*/
+
