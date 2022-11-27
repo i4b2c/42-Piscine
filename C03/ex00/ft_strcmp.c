@@ -21,7 +21,6 @@ int	ft_strcmp(char *s1, char*s2)
 }
 /*
 #include <stdio.h>
-
 int main()
 {
 	printf("%d",ft_strcmp("aaaaa","aaaaa"));
