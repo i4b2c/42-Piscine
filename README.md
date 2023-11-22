@@ -1,6 +1,7 @@
 # **42-Piscine**
 
-Minha jornada na piscina da 42 Porto.
+
+My journey at the 42 Porto piscine.
 
 
 
